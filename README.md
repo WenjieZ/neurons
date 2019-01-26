@@ -11,7 +11,7 @@ A Python implementation of Neural Network without hidden layers. You can use it 
 `demo.ipynb` shows how to use this package.
 
 ## Copyright
-I, Wenjie ZHENG, am the only author of this package. All rights reserved.
+All rights reserved © 2017 Wenjie Zheng
 
 ## Contact
 Please contact me if you need more information about this package.
